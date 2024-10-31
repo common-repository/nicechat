@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#. Text in echo
+#: nice-chat-to-wp/trunk/admin/class-nice-chat-to-wp-admin.php:73
+msgid "Settings updated"
+msgstr ""
+
+#. Text in echo
+#: nice-chat-to-wp/trunk/admin/class-nice-chat-to-wp-admin.php:75
+msgid "Wrong Partner ID"
+msgstr ""
+
+#. Text in echo
+#: nice-chat-to-wp/trunk/admin/class-nice-chat-to-wp-admin.php:89
+msgid "Wrong API-ID/Secret"
+msgstr ""
+
+#. Text in echo
+#: nice-chat-to-wp/trunk/admin/class-nice-chat-to-wp-admin.php:98
+msgid "Setup NiceChat Widget"
+msgstr ""
+
+#. Text in echo
+#: nice-chat-to-wp/trunk/admin/class-nice-chat-to-wp-admin.php:102
+msgid "Partner ID (optional)"
+msgstr ""
+
+#. Text in echo
+#: nice-chat-to-wp/trunk/admin/class-nice-chat-to-wp-admin.php:106
+msgid "Product synchronization API"
+msgstr ""
+
+#. Text in echo
+#: nice-chat-to-wp/trunk/admin/class-nice-chat-to-wp-admin.php:109
+msgid "API-ID (optional)"
+msgstr ""
+
+#. Text in echo
+#: nice-chat-to-wp/trunk/admin/class-nice-chat-to-wp-admin.php:113
+msgid "API-Secret (optional)"
+msgstr ""
+
+#. Text in echo
+#: nice-chat-to-wp/trunk/admin/class-nice-chat-to-wp-admin.php:117
+msgid "Save settings"
+msgstr ""
+
+#. Text in echo
+#: nice-chat-to-wp/trunk/admin/class-nice-chat-to-wp-admin.php:122
+msgid "Export products"
+msgstr ""
